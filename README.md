@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @timj4toyota
+- 👀 I’m interested in software technologies, mainly within the kotlin/java eco system.
